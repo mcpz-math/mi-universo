@@ -11,3 +11,12 @@
   llenarlas.
 - Se definió el estilo visual "Universo" en `assets/style.css`: cielo
   nocturno, estrellas de fondo, y un color propio para cada planeta.
+
+## 2026-09-12 (primera rama dentro de un interés: Diabetes en Salud)
+- En `salud.html` se agregó un pequeño diagrama de rama que conecta el planeta
+  "Salud" con un primer subtema: "Diabetes".
+- Se creó su página propia `diabetes.html` (con la etiqueta "Próximamente"),
+  enlazada de regreso a `salud.html`.
+- Este patrón (rama dentro de la página de un interés, con su propia página)
+  queda listo para repetirse cuando se agreguen más subtemas, en Salud o en
+  cualquier otro interés.

@@ -18,6 +18,7 @@
   --c-lectura: #ffd166;
   --c-salud: #8fe3a0;
   --c-qigong: #c9a7f0;
+  --c-salud-branch: #c9f2d1;
 
   --radius: 20px;
 }
@@ -150,6 +151,46 @@ a{ color: var(--gold); }
   font-family: 'Karla', sans-serif;
   font-weight: 700;
   font-size: 15px;
+}
+
+/* ---------- Ramas dentro de un interés ---------- */
+.branch-figure{
+  width: min(100% - 2rem, 520px);
+  margin: 1rem auto 2rem;
+}
+
+.branch-figure svg{
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.center-node text{
+  fill: var(--bg);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+}
+
+.branch-node{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.branch-node circle{
+  transition: transform .15s ease, filter .15s ease;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+.branch-node:hover circle{
+  transform: scale(1.08);
+  filter: brightness(1.15);
+}
+
+.branch-node text{
+  fill: var(--bg);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
 }
 
 /* ---------- Tarjeta / página de un interés ---------- */
