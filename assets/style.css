@@ -157,7 +157,7 @@ a{ color: var(--gold); }
 }
 
 .node-label-out{
-  fill: var(--cream);
+  fill: var(--cream) !important;
   font-family: 'Karla', sans-serif;
   font-weight: 700;
   font-size: 15px;

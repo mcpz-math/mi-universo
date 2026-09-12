@@ -76,3 +76,10 @@
   a `nutricion.html` dentro de un marco a juego con el estilo del sitio.
 - Se agregó la clase `.topic-image` en `assets/style.css` para mostrar
   imágenes dentro de la página de un interés.
+
+## 2026-09-12 (arreglo real de las etiquetas de texto)
+- El arreglo anterior a `.node-label-out` (para que se vieran los nombres en
+  Salud y Diabetes) sin querer rompió las etiquetas del mapa principal: ahí
+  compite con otra regla más específica que las pintaba oscuras. Se corrigió
+  para que `.node-label-out` siempre gane y las etiquetas se vean en todas
+  las páginas por igual.
