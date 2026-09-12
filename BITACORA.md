@@ -87,3 +87,11 @@
 ## 2026-09-12 (título "Dieta Mediterránea")
 - Se agregó el título "Dieta Mediterránea" justo antes de la imagen de la
   pirámide en `nutricion.html`.
+
+## 2026-09-12 (lista de grasas antes de la pirámide)
+- Se agregó, antes de la pirámide, una lista con las grasas de la dieta
+  mediterránea: aceite de oliva, frutos secos y pescados.
+- Se agregó estilo para listas dentro de la página de un interés en
+  `assets/style.css`.
+- Se agregó también la frase "Los cereales y los vegetales son la base de
+  los platillos."
