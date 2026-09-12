@@ -20,3 +20,10 @@
 - Este patrón (rama dentro de la página de un interés, con su propia página)
   queda listo para repetirse cuando se agreguen más subtemas, en Salud o en
   cualquier otro interés.
+
+## 2026-09-12 (subramas de Diabetes)
+- En `diabetes.html` se agregó un diagrama con 4 subramas: Rangos y síntomas,
+  Remisión de la diabetes, Cuidados y Medicamentos.
+- Se creó una página propia para cada una (`rangos-sintomas.html`,
+  `remision.html`, `cuidados.html`, `medicamentos.html`), todas con la
+  etiqueta "Próximamente" y su enlace de regreso a Diabetes.
