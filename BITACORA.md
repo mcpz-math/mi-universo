@@ -83,3 +83,7 @@
   compite con otra regla más específica que las pintaba oscuras. Se corrigió
   para que `.node-label-out` siempre gane y las etiquetas se vean en todas
   las páginas por igual.
+
+## 2026-09-12 (título "Dieta Mediterránea")
+- Se agregó el título "Dieta Mediterránea" justo antes de la imagen de la
+  pirámide en `nutricion.html`.
