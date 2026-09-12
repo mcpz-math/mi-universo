@@ -27,3 +27,9 @@
 - Se creó una página propia para cada una (`rangos-sintomas.html`,
   `remision.html`, `cuidados.html`, `medicamentos.html`), todas con la
   etiqueta "Próximamente" y su enlace de regreso a Diabetes.
+
+## 2026-09-12 (sexto planeta: Nutrición)
+- Se agregó "Nutrición" como un nuevo planeta que sale directo de Carmen en
+  `index.html`. Con 6 planetas el mapa se reacomodó a un hexágono parejo (antes
+  eran 5 repartidos en pentágono) para que quede bien distribuido.
+- Se creó su página propia `nutricion.html` con la etiqueta "Próximamente".
