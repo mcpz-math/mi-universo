@@ -97,3 +97,4 @@
   los platillos."
 - Y la frase "Las carnes y similares son ahora la guarnición."
 - Y la frase "Se añaden factores socioculturales y actividad física."
+- Y la frase "Tomar de 1.5 a 2 litros de agua."
