@@ -156,7 +156,7 @@ a{ color: var(--gold); }
   font-weight: 600;
 }
 
-.orbit-node .node-label-out{
+.node-label-out{
   fill: var(--cream);
   font-family: 'Karla', sans-serif;
   font-weight: 700;
@@ -169,7 +169,13 @@ a{ color: var(--gold); }
   margin: 1rem auto 2rem;
 }
 
-.branch-figure svg{
+.tree-figure{
+  width: min(100% - 2rem, 820px);
+  margin: 1rem auto 2rem;
+}
+
+.branch-figure svg,
+.tree-figure svg{
   width: 100%;
   height: auto;
   overflow: visible;

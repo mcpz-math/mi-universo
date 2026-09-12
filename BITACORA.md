@@ -57,3 +57,15 @@
 - Se anotó en CLAUDE.md que Carmen es quien decide qué nodos se conectan
   entre sí — no se deben agregar líneas, círculos u otros elementos que
   sugieran una conexión que ella no haya pedido.
+
+## 2026-09-12 (el árbol completo de Salud en una sola imagen)
+- Carmen pidió ver, en la imagen de Salud, todo lo que ya se había armado
+  para ese interés. Se rehízo el diagrama de `salud.html` como un árbol de
+  tres niveles en una sola imagen: Salud → Diabetes → sus 4 subtemas (Rangos
+  y síntomas, Remisión, Cuidados, Medicamentos).
+- Se agregó la clase `.tree-figure` en `assets/style.css` para este tipo de
+  diagrama más ancho.
+- De paso se corrigió un error: la regla de color de las etiquetas de texto
+  (`.node-label-out`) solo aplicaba dentro de un planeta del mapa principal,
+  así que en los diagramas de rama ("Salud", "Diabetes", etc.) el texto no
+  tomaba el color correcto. Ahora aplica en todos los diagramas por igual.
