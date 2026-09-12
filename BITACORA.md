@@ -33,3 +33,8 @@
   `index.html`. Con 6 planetas el mapa se reacomodó a un hexágono parejo (antes
   eran 5 repartidos en pentágono) para que quede bien distribuido.
 - Se creó su página propia `nutricion.html` con la etiqueta "Próximamente".
+
+## 2026-09-12 (se quitó el planeta Música)
+- Se eliminó el planeta "Música" del mapa (línea, planeta y `musica.html`).
+- El mapa volvió a acomodarse en pentágono con los 5 planetas restantes:
+  Matemáticas, Lectura, Nutrición, Salud y Zhineng Qigong.
