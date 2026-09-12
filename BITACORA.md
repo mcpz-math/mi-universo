@@ -49,3 +49,11 @@
   planetas (y el sol "Carmen") tienen un brillo dorado alrededor, que se
   intensifica al pasar el mouse. La estructura de mapa mental (árbol con
   centro y ramas) se mantiene igual.
+
+## 2026-09-12 (quitar el círculo que unía todos los planetas)
+- Carmen notó que un círculo punteado de fondo pasaba por todos los planetas
+  y daba la impresión de que estaban conectados entre sí, cuando solo están
+  conectados al centro. Se quitó ese círculo de `index.html` y `diabetes.html`.
+- Se anotó en CLAUDE.md que Carmen es quien decide qué nodos se conectan
+  entre sí — no se deben agregar líneas, círculos u otros elementos que
+  sugieran una conexión que ella no haya pedido.

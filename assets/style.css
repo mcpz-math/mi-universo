@@ -117,13 +117,6 @@ a{ color: var(--gold); }
   to{ stroke-dashoffset: -140; }
 }
 
-.orbit-ring{
-  fill: none;
-  stroke: var(--line);
-  stroke-width: 1;
-  stroke-dasharray: 4 6;
-}
-
 .node-sun circle,
 .orbit-node circle,
 .center-node circle,

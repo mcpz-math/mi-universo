@@ -17,6 +17,9 @@ Publicado gratis con GitHub Pages en: https://mcpz-math.github.io/mi-universo/
 - Quiere que los cambios se sincronicen sobre la marcha al repositorio de GitHub.
 - Llevar un registro de avance en [BITACORA.md](BITACORA.md) — actualizarlo cada vez
   que se agregue o cambie algo importante.
+- Carmen decide qué nodos se conectan entre sí. No agregar conexiones,
+  círculos u otros elementos decorativos que sugieran una relación entre
+  nodos que ella no haya pedido explícitamente.
 
 ## Estilo visual
 "Universo": cielo nocturno (#0b1030) + crema cálido (#f4f1e6) + acento dorado
