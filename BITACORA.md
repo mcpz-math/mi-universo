@@ -69,3 +69,10 @@
   (`.node-label-out`) solo aplicaba dentro de un planeta del mapa principal,
   así que en los diagramas de rama ("Salud", "Diabetes", etc.) el texto no
   tomaba el color correcto. Ahora aplica en todos los diagramas por igual.
+
+## 2026-09-12 (primera imagen en Nutrición)
+- Carmen subió una imagen (la pirámide de la dieta mediterránea) directamente
+  a GitHub. Se guardó en `materiales/piramide-mediterranea.png` y se agregó
+  a `nutricion.html` dentro de un marco a juego con el estilo del sitio.
+- Se agregó la clase `.topic-image` en `assets/style.css` para mostrar
+  imágenes dentro de la página de un interés.
