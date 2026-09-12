@@ -38,3 +38,14 @@
 - Se eliminó el planeta "Música" del mapa (línea, planeta y `musica.html`).
 - El mapa volvió a acomodarse en pentágono con los 5 planetas restantes:
   Matemáticas, Lectura, Nutrición, Salud y Zhineng Qigong.
+
+## 2026-09-12 (toque "red neuronal")
+- Carmen preguntó si convenía ver la página como una red neuronal (muchos
+  nodos conectados entre sí, sin orden claro) — se le explicó que eso no
+  conviene para este proyecto porque pierde la claridad jerárquica del mapa
+  mental, pero que sí se podía dar ese "look" sin perder el orden.
+- Se le dio un toque de red neuronal al estilo visual en `assets/style.css`:
+  las líneas ahora tienen un pulso animado (como una señal viajando) y los
+  planetas (y el sol "Carmen") tienen un brillo dorado alrededor, que se
+  intensifica al pasar el mouse. La estructura de mapa mental (árbol con
+  centro y ramas) se mantiene igual.

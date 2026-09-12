@@ -107,8 +107,14 @@ a{ color: var(--gold); }
 }
 
 .orbit-line{
-  stroke: var(--line);
-  stroke-width: 2;
+  stroke: rgba(242, 193, 78, .45);
+  stroke-width: 1.5;
+  stroke-dasharray: 5 9;
+  animation: pulse-flow 3.5s linear infinite;
+}
+
+@keyframes pulse-flow{
+  to{ stroke-dashoffset: -140; }
 }
 
 .orbit-ring{
@@ -116,6 +122,13 @@ a{ color: var(--gold); }
   stroke: var(--line);
   stroke-width: 1;
   stroke-dasharray: 4 6;
+}
+
+.node-sun circle,
+.orbit-node circle,
+.center-node circle,
+.branch-node circle{
+  filter: drop-shadow(0 0 8px rgba(242, 193, 78, .55));
 }
 
 .node-sun circle{
@@ -141,7 +154,7 @@ a{ color: var(--gold); }
 
 .orbit-node:hover circle{
   transform: scale(1.08);
-  filter: brightness(1.15);
+  filter: brightness(1.15) drop-shadow(0 0 14px rgba(242, 193, 78, .8));
 }
 
 .orbit-node text{
@@ -188,7 +201,7 @@ a{ color: var(--gold); }
 
 .branch-node:hover circle{
   transform: scale(1.08);
-  filter: brightness(1.15);
+  filter: brightness(1.15) drop-shadow(0 0 14px rgba(242, 193, 78, .8));
 }
 
 .branch-node text{
