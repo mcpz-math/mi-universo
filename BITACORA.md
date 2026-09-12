@@ -96,3 +96,4 @@
 - Se agregó también la frase "Los cereales y los vegetales son la base de
   los platillos."
 - Y la frase "Las carnes y similares son ahora la guarnición."
+- Y la frase "Se añaden factores socioculturales y actividad física."
