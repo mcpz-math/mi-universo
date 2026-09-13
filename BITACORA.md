@@ -111,3 +111,13 @@
   macronutrientes y micronutrientes, y cómo medir porciones (taza medidora de 240 ml,
   media taza ≈ una porción, 15 g ≈ una porción para alimentos formados como una
   tortilla).
+
+## 2026-09-13 (Dieta Mediterránea también como subtema)
+- Carmen pidió que, al entrar a Nutrición, se vieran dos ramas: "Dieta Mediterránea" y
+  "Minicurso para contar carbohidratos", cada una con su propio contenido en su página.
+- Se sacó el contenido de la Dieta Mediterránea (que antes vivía directo en
+  `nutricion.html`) a su propia página `dieta-mediterranea.html`, con el mismo patrón que
+  `carbohidratos.html`.
+- `nutricion.html` ahora solo muestra el diagrama de rama con los dos subtemas de
+  Nutrición (Dieta Mediterránea y Minicurso para contar carbohidratos), igual que
+  `salud.html` muestra sus subtemas.
