@@ -121,3 +121,10 @@
 - `nutricion.html` ahora solo muestra el diagrama de rama con los dos subtemas de
   Nutrición (Dieta Mediterránea y Minicurso para contar carbohidratos), igual que
   `salud.html` muestra sus subtemas.
+
+## 2026-09-13 (ajustes al Minicurso para contar carbohidratos)
+- "Macronutrientes" y "Micronutrientes" eran subtítulos dentro del texto; se cambiaron de
+  párrafo normal a encabezado (`<h2>`) en `carbohidratos.html` para que se vean
+  diferenciados en tamaño y en negritas.
+- Se agregó al final la nota sobre las frutas: una pieza de fruta equivale a una porción
+  (solo cuando no se pide medir con taza), y debe verse del tamaño del puño de la mano.
