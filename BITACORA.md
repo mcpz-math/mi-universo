@@ -98,3 +98,16 @@
 - Y la frase "Las carnes y similares son ahora la guarnición."
 - Y la frase "Se añaden factores socioculturales y actividad física."
 - Y la frase "Tomar de 1.5 a 2 litros de agua."
+
+## 2026-09-13 (primer subtema de Nutrición: Minicurso para contar carbohidratos)
+- Carmen compartió una fotografía de sus apuntes de un minicurso sobre cómo contar
+  carbohidratos, y pidió que fuera un subtema de Nutrición (mismo patrón que
+  Salud → Diabetes), en vez de una sección dentro de `nutricion.html`.
+- Se agregó en `nutricion.html` un diagrama de rama (`.branch-figure`) que conecta
+  "Nutrición" con su primer subtema, "Minicurso para contar carbohidratos", con un color
+  propio (`--c-nutricion-branch` en `assets/style.css`).
+- Se creó la página propia `carbohidratos.html` (enlazada de regreso a Nutrición) con el
+  contenido del minicurso: qué es un carbohidrato y en qué alimentos se encuentra,
+  macronutrientes y micronutrientes, y cómo medir porciones (taza medidora de 240 ml,
+  media taza ≈ una porción, 15 g ≈ una porción para alimentos formados como una
+  tortilla).
