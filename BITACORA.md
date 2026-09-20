@@ -138,3 +138,8 @@
   son las vitaminas y minerales que el cuerpo necesita en pequeñas cantidades pero
   son esenciales, y que deben obtenerse de la alimentación porque el cuerpo no los
   produce por sí solo.
+- Carmen compartió, en 4 fotos, la "Tabla de raciones de hidratos de carbono" de la
+  Dra. Zuraima Corona (especialista en diabetes). Se guardaron las 4 páginas en
+  `materiales/` (`tabla-raciones-hidratos-carbono.png`, `-2.png`, `-3.png`, `-4.png`)
+  y se agregaron a `carbohidratos.html`, al final, después del párrafo sobre la
+  fruta y el puño de la mano.
