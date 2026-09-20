@@ -162,3 +162,18 @@
   mismo número de carbohidratos en diferentes alimentos no da el mismo índice
   glucémico, y que los alimentos con fibra suben la glucosa más lento (índice
   glucémico más bajo).
+
+## 2026-09-20 (primeras 9 sesiones de Zhineng Qigong)
+- Carmen pidió crear nodos llamados "sesiones" dentro de Zhineng Qigong, para irlos
+  agregando poco a poco. Se armaron los primeros 9: Preparación, Qué es el Zhineng
+  Qigong, Principios fundamentales, Zu Chang Fa, Método para levantar y verter el Qi,
+  Método de las sentadillas de pared, Du Quian Fa, La Qi y Conclusión.
+- En `zhineng-qigong.html` se agregó un diagrama de árbol con Zhineng Qigong al centro
+  y las 9 sesiones en una columna a la derecha, cada una con su línea de conexión
+  (mismo patrón que Salud → Diabetes, pero con 9 ramas en vez de 4).
+- Se creó una página propia para cada sesión (`preparacion.html`,
+  `que-es-zhineng-qigong.html`, `principios-fundamentales.html`, `zu-chang-fa.html`,
+  `levantar-verter-qi.html`, `sentadillas-pared.html`, `du-quian-fa.html`, `la-qi.html`,
+  `conclusion.html`), todas con la etiqueta "Próximamente" y su enlace de regreso a
+  Zhineng Qigong.
+- Se agregó el color `--c-qigong-branch` en `assets/style.css` para estas 9 ramas.
