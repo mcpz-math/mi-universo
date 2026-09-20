@@ -143,3 +143,5 @@
   `materiales/` (`tabla-raciones-hidratos-carbono.png`, `-2.png`, `-3.png`, `-4.png`)
   y se agregaron a `carbohidratos.html`, al final, después del párrafo sobre la
   fruta y el puño de la mano.
+- Se convirtieron en lista las notas que estaban debajo de "Recomendaciones para el
+  conteo de carbohidratos" en `carbohidratos.html` (antes eran párrafos sueltos).
