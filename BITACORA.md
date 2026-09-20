@@ -128,3 +128,13 @@
   diferenciados en tamaño y en negritas.
 - Se agregó al final la nota sobre las frutas: una pieza de fruta equivale a una porción
   (solo cuando no se pide medir con taza), y debe verse del tamaño del puño de la mano.
+
+## 2026-09-20 (más contenido en el Minicurso para contar carbohidratos)
+- Se agregó el título "Recomendaciones para el conteo de carbohidratos" en
+  `carbohidratos.html`, justo antes de los párrafos sobre la taza medidora y las
+  porciones (para separar esa parte del resto del contenido).
+- Carmen pidió buscar en la red qué son los micronutrientes y agregar un resumen
+  breve. Se agregó, debajo del título "Micronutrientes", un párrafo explicando que
+  son las vitaminas y minerales que el cuerpo necesita en pequeñas cantidades pero
+  son esenciales, y que deben obtenerse de la alimentación porque el cuerpo no los
+  produce por sí solo.
