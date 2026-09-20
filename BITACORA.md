@@ -177,3 +177,19 @@
   `conclusion.html`), todas con la etiqueta "Próximamente" y su enlace de regreso a
   Zhineng Qigong.
 - Se agregó el color `--c-qigong-branch` en `assets/style.css` para estas 9 ramas.
+
+## 2026-09-20 (primer contenido de Zhineng Qigong: Preparación)
+- Carmen compartió 6 fotos de sus apuntes a mano del curso de Zhineng Qigong
+  (módulo "Bienvenida e introducción", 1/11).
+- Se llenó `preparacion.html` con todo el contenido de esas fotos, organizado en
+  secciones: la lista de indicaciones de Preparación, sobre la instrucción que se
+  va a recibir, aprender a acomodar el cuerpo, cuerpo/postura/emociones, cómo
+  sentarnos en una silla, el Ming Men, los tres aspectos de la instrucción (Xing
+  Chuan, Kou Chuan, Xin Chuan), sobre sanar y recibir la instrucción, cómo recibir
+  adecuadamente la instrucción, no comparar/no interpretar, sensaciones y
+  reacciones, atención en nosotros mismos y el Qi, y bibliografía.
+- Se quitó la etiqueta "Próximamente" de `preparacion.html` ya que ahora tiene
+  contenido.
+- Quedaron pendientes dos frases que se cortaban en el borde de las fotos, y el
+  inicio de un tema nuevo ("Testimonio 2/11") del que solo se veía el título sin
+  notas — para completar cuando Carmen tenga esa información.
