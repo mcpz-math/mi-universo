@@ -145,3 +145,20 @@
   fruta y el puño de la mano.
 - Se convirtieron en lista las notas que estaban debajo de "Recomendaciones para el
   conteo de carbohidratos" en `carbohidratos.html` (antes eran párrafos sueltos).
+- Se agregó a esa misma lista la nota "Podemos preguntar a Google cuántos gramos de
+  carbohidratos hay en la porción que vamos a comer."
+- Se agregó, en la lista de dónde se encuentran los carbohidratos, la nota "Los
+  vegetales son los alimentos que menos carbohidratos tienen", justo antes de
+  "Entre otros...".
+- Carmen pidió quitar las imágenes de la tabla de raciones de hidratos de carbono; se
+  quitaron de `carbohidratos.html` y se borraron los 4 archivos de `materiales/`.
+- Se simplificó la frase sobre dónde están los carbohidratos: "Están en todas las
+  frutas, cereales, granos, tubérculos, leche y yogurt."
+- Se agregó la sección "Lectura de etiquetas" con 3 notas en lista: observar la
+  porción de la etiqueta, que toda la información corresponde a esa porción, y no
+  olvidar que el conteo es por porción.
+- Se agregó la sección "Índice glucémico" con 3 notas en lista: qué es el índice
+  glucémico (capacidad de un alimento para elevar la glucosa en la sangre), que el
+  mismo número de carbohidratos en diferentes alimentos no da el mismo índice
+  glucémico, y que los alimentos con fibra suben la glucosa más lento (índice
+  glucémico más bajo).
