@@ -205,3 +205,5 @@
 - Se agregó el párrafo: "El entrenamiento está diseñado para mejorar la salud
   física, mental y emocional, pues todo lo que hacemos desequilibra el Qi. La única
   práctica correcta para equilibrar el Qi es el Qigong."
+- Carmen pidió poner lo escrito como lista: los tres párrafos de
+  `que-es-zhineng-qigong.html` se convirtieron en una lista con viñetas.
