@@ -207,3 +207,10 @@
   práctica correcta para equilibrar el Qi es el Qigong."
 - Carmen pidió poner lo escrito como lista: los tres párrafos de
   `que-es-zhineng-qigong.html` se convirtieron en una lista con viñetas.
+- Carmen compartió una foto de sus apuntes (dos columnas). Se agregó a la lista la
+  nota "Todos los deportes desequilibran nuestro Qi." y una sección nueva,
+  "Zhi 智 (Sabiduría)", con sus notas en lista: sabiduría ≠ inteligencia, la
+  sabiduría se despierta (no se aprende), la sabiduría del cuerpo, las emociones y
+  la mente, el cuerpo como mecanismo de frecuencias, y por qué los medicamentos
+  tienen efectos secundarios. Las frases que Carmen resaltó en verde en sus
+  apuntes se pusieron en negritas.
