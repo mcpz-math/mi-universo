@@ -235,3 +235,12 @@
   (canales o meridianos) y "Dan Tian" (qué son, sus funciones, y el primero de los
   tres: el Dan Tian bajo). Los otros dos Dan Tian quedan pendientes para la
   siguiente foto.
+- Carmen compartió otra foto. Se completaron los tres Dan Tian (medio y alto), se
+  agregaron 4 notas más a "Dan Tian" (el ser humano: cuerpo, emociones y mente;
+  arraigarnos hacia abajo; el Qi tiende a subir; verterlo en el Dan Tian bajo) y una
+  sección nueva, "Sistema externo" (el campo, la entrada y salida del Qi, la
+  sustitución celular).
+- Pendientes: la frase "Todo cuerpo tiene un campo, cada átomo de tu cuerpo tiene
+  un campo, cada molécula de tu…" se corta al final de la foto, y hay que confirmar
+  con Carmen si el Dan Tian alto se relaciona con el aspecto "emocional" (como se
+  leyó en sus apuntes) o con otro aspecto.
