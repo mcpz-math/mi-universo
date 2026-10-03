@@ -249,6 +249,122 @@
     <li>Zhong Kui: es el centro de la falange media del dedo medio.</li>
   </ul>
 
+  <figure class="topic-image puntos-figure">
+    <svg viewBox="0 0 880 770" role="img" aria-labelledby="puntos-titulo puntos-desc">
+      <title id="puntos-titulo">Los puntos y los tres Dan Tian</title>
+      <desc id="puntos-desc">Dos siluetas, de espalda y de frente. En la de espalda se
+      marcan Yu Zhen, Shen Zhu y Ming Men, y los tres Dan Tian (alto, medio y bajo). En la
+      de frente se marcan Bai Hui, Yin Tang, Qi Hu, Da Bao, Du Qi, Hui Yin y Zhong Kui.</desc>
+      <defs>
+        <radialGradient id="dantian-brillo">
+          <stop offset="0" stop-color="#f2c14e" stop-opacity=".75"/>
+          <stop offset=".55" stop-color="#f2c14e" stop-opacity=".28"/>
+          <stop offset="1" stop-color="#f2c14e" stop-opacity="0"/>
+        </radialGradient>
+        <g id="silueta" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M-27 352 L-30 560 L-32 682" fill="none" stroke="#c9a7f0" stroke-width="36"/>
+          <path d="M27 352 L30 560 L32 682" fill="none" stroke="#c9a7f0" stroke-width="36"/>
+          <path d="M-27 352 L-30 560 L-32 682" fill="none" stroke="#2f3060" stroke-width="32"/>
+          <path d="M27 352 L30 560 L32 682" fill="none" stroke="#2f3060" stroke-width="32"/>
+          <path d="M-58 164 L-88 300 L-96 392" fill="none" stroke="#c9a7f0" stroke-width="26"/>
+          <path d="M58 164 L88 300 L96 392" fill="none" stroke="#c9a7f0" stroke-width="26"/>
+          <path d="M-58 164 L-88 300 L-96 392" fill="none" stroke="#2f3060" stroke-width="22"/>
+          <path d="M58 164 L88 300 L96 392" fill="none" stroke="#2f3060" stroke-width="22"/>
+          <g fill="#2f3060" stroke="#c9a7f0" stroke-width="2">
+            <ellipse cx="-38" cy="700" rx="26" ry="10"/>
+            <ellipse cx="38" cy="700" rx="26" ry="10"/>
+            <ellipse cx="-97" cy="405" rx="11" ry="17"/>
+            <ellipse cx="97" cy="405" rx="11" ry="17"/>
+            <path d="M-62 162 Q-64 152 -52 150 L52 150 Q64 152 62 162 L47 290 Q58 325 55 362 L-55 362 Q-58 325 -47 290 Z"/>
+            <rect x="-11" y="122" width="22" height="34" rx="6"/>
+            <ellipse cx="0" cy="95" rx="30" ry="36"/>
+          </g>
+        </g>
+      </defs>
+
+      <!-- Siluetas -->
+      <g>
+        <use href="#silueta" x="210"/>
+        <use href="#silueta" x="600"/>
+      </g>
+      <!-- Columna (espalda) y rostro (frente) -->
+      <path d="M210 150 L210 352" class="detalle"/>
+      <path d="M588 90 q4 3 8 0 M604 90 q4 3 8 0 M594 112 q6 4 12 0" class="detalle"/>
+
+      <!-- Dan Tian (en la silueta de espalda) -->
+      <circle cx="210" cy="92" r="24" fill="url(#dantian-brillo)"/>
+      <circle cx="210" cy="215" r="30" fill="url(#dantian-brillo)"/>
+      <circle cx="210" cy="332" r="32" fill="url(#dantian-brillo)"/>
+
+      <!-- Líneas hacia las etiquetas -->
+      <g class="guia">
+        <path d="M232 92 L312 74"/>
+        <path d="M238 215 L312 194"/>
+        <path d="M240 332 L312 312"/>
+        <path d="M210 114 L100 110"/>
+        <path d="M210 182 L100 185"/>
+        <path d="M210 298 L100 300"/>
+        <path d="M600 59 L722 45"/>
+        <path d="M600 84 L722 95"/>
+        <path d="M627 170 L722 160"/>
+        <path d="M650 228 L722 225"/>
+        <path d="M600 300 L722 300"/>
+        <path d="M600 362 L722 362"/>
+        <path d="M697 414 L722 425"/>
+      </g>
+
+      <!-- Puntos -->
+      <g class="punto">
+        <circle cx="210" cy="114" r="5"/>
+        <circle cx="210" cy="182" r="5"/>
+        <circle cx="210" cy="298" r="5"/>
+        <circle cx="600" cy="59" r="5"/>
+        <circle cx="600" cy="84" r="5"/>
+        <circle cx="627" cy="170" r="5"/>
+        <circle cx="650" cy="228" r="5"/>
+        <circle cx="600" cy="300" r="5"/>
+        <circle cx="600" cy="362" r="5"/>
+        <circle cx="697" cy="414" r="5"/>
+      </g>
+
+      <!-- Etiquetas de los puntos -->
+      <g class="nombre">
+        <text x="94" y="116" text-anchor="end">Yu Zhen</text>
+        <text x="94" y="191" text-anchor="end">Shen Zhu</text>
+        <text x="94" y="306" text-anchor="end">Ming Men</text>
+        <text x="728" y="51">Bai Hui</text>
+        <text x="728" y="101">Yin Tang</text>
+        <text x="728" y="166">Qi Hu</text>
+        <text x="728" y="231">Da Bao</text>
+        <text x="728" y="306">Du Qi</text>
+        <text x="728" y="368">Hui Yin</text>
+        <text x="728" y="431">Zhong Kui</text>
+      </g>
+
+      <!-- Etiquetas de los Dan Tian -->
+      <g class="dantian">
+        <text x="318" y="72">Dan Tian alto</text>
+        <text x="318" y="192">Dan Tian medio</text>
+        <text x="318" y="310">Dan Tian bajo</text>
+      </g>
+      <g class="nota">
+        <text x="318" y="94">Alimenta al cerebro</text>
+        <text x="318" y="113">y al sistema nervioso</text>
+        <text x="318" y="214">Alimenta a los órganos</text>
+        <text x="318" y="233">y vísceras del cuerpo</text>
+        <text x="318" y="332">Base estructural de</text>
+        <text x="318" y="351">todos los sistemas de Qi</text>
+      </g>
+
+      <!-- Pies de cada silueta -->
+      <g class="vista">
+        <text x="210" y="745" text-anchor="middle">Espalda</text>
+        <text x="600" y="745" text-anchor="middle">Frente</text>
+      </g>
+    </svg>
+    <figcaption>Los puntos y los tres Dan Tian · lámina propia de Mi Universo</figcaption>
+  </figure>
+
   <figure class="topic-image">
     <img src="materiales/los-puntos.png" alt="Lámina de Los Puntos: dos figuras humanas con los puntos Bai Hui, Yin Tang, Yu Zhen, Shen Zhu, Da Bao, Ming Men, Hui Yin, Zhong Kui, Qi Hu y Du Qi, y la ubicación de los tres Dan Tian">
     <figcaption>Los Puntos · Ilustraciones por Carlos Eduardo García Oseguera</figcaption>

@@ -267,3 +267,13 @@
   de las pestañas), y "Qi Gong" suelto se cambió a "Qigong". Se anotó la regla en
   CLAUDE.md para que se respete siempre. (Las entradas anteriores de esta bitácora
   se dejaron como estaban.)
+
+## 2026-10-03 (lámina propia de Los puntos)
+- Carmen preguntó si existía en internet una lámina como la del curso. Se buscó: hay
+  explicaciones en texto y mapas generales de acupuntura, pero ninguna lámina libre
+  igual. Carmen pidió hacer una lámina propia.
+- Se dibujó una lámina nueva en `que-es-zhineng-qigong.html`, con el estilo
+  "Universo": dos siluetas (de espalda y de frente) con los 10 puntos marcados en
+  dorado y los tres Dan Tian como brillos, cada uno con lo que alimenta. Va justo
+  antes de la lámina del curso, que por ahora se dejó también. Sus estilos están en
+  `assets/style.css` (clase `.puntos-figure`).
