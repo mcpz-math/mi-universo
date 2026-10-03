@@ -277,3 +277,4 @@
   dorado y los tres Dan Tian como brillos, cada uno con lo que alimenta. Va justo
   antes de la lámina del curso, que por ahora se dejó también. Sus estilos están en
   `assets/style.css` (clase `.puntos-figure`).
+- Carmen decidió dejar las dos láminas en la página: la propia y la del curso.
