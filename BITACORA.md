@@ -260,3 +260,10 @@
   pensar".
 - Se cambió el Dan Tian alto de "aspecto emocional" a "aspecto mental" (Carmen lo
   confirmó; la lámina dice que alimenta al cerebro y al sistema nervioso).
+
+## 2026-10-03 (el nombre se escribe "ZhiNeng Qigong")
+- Carmen pidió que el nombre se escriba siempre "ZhiNeng Qigong". Se cambió en todo
+  el sitio (mapa principal, página de ZhiNeng Qigong, las 9 sesiones, y los títulos
+  de las pestañas), y "Qi Gong" suelto se cambió a "Qigong". Se anotó la regla en
+  CLAUDE.md para que se respete siempre. (Las entradas anteriores de esta bitácora
+  se dejaron como estaban.)

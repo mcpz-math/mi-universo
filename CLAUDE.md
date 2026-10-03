@@ -17,6 +17,9 @@ Publicado gratis con GitHub Pages en: https://mcpz-math.github.io/mi-universo/
 - Quiere que los cambios se sincronicen sobre la marcha al repositorio de GitHub.
 - Llevar un registro de avance en [BITACORA.md](BITACORA.md) — actualizarlo cada vez
   que se agregue o cambie algo importante.
+- El nombre de la práctica se escribe siempre **"ZhiNeng Qigong"** (así, con la N
+  mayúscula y Qigong junto), en todas las páginas y en el mapa. Si Carmen lo escribe
+  de otra forma en sus apuntes, se pasa a esta forma.
 - Carmen decide qué nodos se conectan entre sí. No agregar conexiones,
   círculos u otros elementos decorativos que sugieran una relación entre
   nodos que ella no haya pedido explícitamente.
