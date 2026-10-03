@@ -240,7 +240,10 @@
   arraigarnos hacia abajo; el Qi tiende a subir; verterlo en el Dan Tian bajo) y una
   sección nueva, "Sistema externo" (el campo, la entrada y salida del Qi, la
   sustitución celular).
-- Pendientes: la frase "Todo cuerpo tiene un campo, cada átomo de tu cuerpo tiene
-  un campo, cada molécula de tu…" se corta al final de la foto, y hay que confirmar
-  con Carmen si el Dan Tian alto se relaciona con el aspecto "emocional" (como se
-  leyó en sus apuntes) o con otro aspecto.
+- Con la siguiente foto se completó la frase "Todo cuerpo tiene un campo…", se
+  agregaron las notas sobre renovar el Qi en el campo de un órgano, y una sección
+  nueva, "Los puntos" (Bai Hui, Yin Tang, Yu Zhen, Shen Zhu, Qi Hu, Da Bao, Du Qi,
+  Ming Men, Hui Yin y Zhong Kui).
+- Pendientes: confirmar con Carmen si el Dan Tian alto se relaciona con el aspecto
+  "emocional" (como se leyó en sus apuntes) o con otro aspecto; y la frase "Cuando
+  nos digan Dan Tian vamos a pensar en un lugar…", que se corta al final de la foto.
