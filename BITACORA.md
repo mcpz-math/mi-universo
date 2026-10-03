@@ -193,3 +193,9 @@
 - Quedaron pendientes dos frases que se cortaban en el borde de las fotos, y el
   inicio de un tema nuevo ("Testimonio 2/11") del que solo se veía el título sin
   notas — para completar cuando Carmen tenga esa información.
+
+## 2026-10-03 (primer contenido de "Qué es el Zhineng Qigong")
+- Se agregó en `que-es-zhineng-qigong.html` la frase: "El Zhineng Qigong es una
+  ciencia avalada por el Buró Nacional de Ciencias, el gobierno chino y el
+  Ministerio de Salud Pública."
+- Se quitó la etiqueta "Próximamente" de esa página, ya que ahora tiene contenido.
