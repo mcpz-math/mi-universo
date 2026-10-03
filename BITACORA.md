@@ -228,3 +228,10 @@
   anatomía sutil" (4/11) y eligió que fueran en esta misma página (no como sesión
   nueva). Se agregaron dos secciones: "Antecedentes históricos y anatomía sutil" y
   "Diferencias con otras formas de Qi Gong".
+- Carmen compartió otra foto. Se agregaron 6 notas más a "Diferencias con otras
+  formas de Qi Gong" (seguridad, profundidad, Pang Ming como creador, impacto
+  económico, sinergia, no requiere diagnóstico) y tres secciones nuevas:
+  "Anatomía del Qi" (los dos sistemas, interno y externo), "Sistema interno de Qi"
+  (canales o meridianos) y "Dan Tian" (qué son, sus funciones, y el primero de los
+  tres: el Dan Tian bajo). Los otros dos Dan Tian quedan pendientes para la
+  siguiente foto.
