@@ -224,3 +224,7 @@
   (trabajar con nuestro Qi; cómo las posturas, los movimientos, los sonidos y la
   mente influyen en el Qi; buscar respuestas en el silencio) y "Zhi Neng Qi Gong"
   ("Trabajar con nuestro Qi para despertar nuestra sabiduría").
+- Carmen compartió la foto de sus apuntes del módulo "Antecedentes históricos y
+  anatomía sutil" (4/11) y eligió que fueran en esta misma página (no como sesión
+  nueva). Se agregaron dos secciones: "Antecedentes históricos y anatomía sutil" y
+  "Diferencias con otras formas de Qi Gong".
