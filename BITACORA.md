@@ -214,3 +214,9 @@
   la mente, el cuerpo como mecanismo de frecuencias, y por qué los medicamentos
   tienen efectos secundarios. Las frases que Carmen resaltó en verde en sus
   apuntes se pusieron en negritas.
+- Carmen compartió otra foto de sus apuntes. Se agregaron 4 notas más a la sección
+  "Zhi 智 (Sabiduría)" (el cultivo del silencio, desde la paz todo puede florecer, y
+  Zhi como despertar de la sabiduría) y tres secciones nuevas, una por cada parte
+  del nombre: "Neng 能 (Talento)", "Qi 气" (qué es el Qi, por qué practicamos, los
+  dos aspectos del Qi) y "Gong 功" (trabajo y esfuerzo realizado con el corazón).
+  Lo resaltado en verde va en negritas.
