@@ -199,3 +199,6 @@
   ciencia avalada por el Buró Nacional de Ciencias, el gobierno chino y el
   Ministerio de Salud Pública."
 - Se quitó la etiqueta "Próximamente" de esa página, ya que ahora tiene contenido.
+- Se agregó el párrafo: "Es una ciencia milenaria y es una práctica que nos enseña
+  a manejar el Qi. Todos sus movimientos tienen por objetivo ayudar a que el Qi se
+  mueva de manera más eficiente en nuestro cuerpo."
