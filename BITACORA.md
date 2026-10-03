@@ -250,3 +250,6 @@
 - Carmen compartió la lámina "Los Puntos" (con sus notas a mano). Se recortó la
   orilla de la foto, se guardó en `materiales/los-puntos.png` y se agregó debajo de
   la lista de "Los puntos", con el crédito del ilustrador.
+- Carmen pidió que la lámina "Los Puntos" no pareciera fotografía. Se enderezó la
+  hoja, se quitaron las sombras y el fondo gris, se blanqueó el papel y se
+  oscureció un poco la letra a mano, para que se vea como una hoja escaneada.
