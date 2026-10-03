@@ -253,3 +253,8 @@
 - Carmen pidió que la lámina "Los Puntos" no pareciera fotografía. Se enderezó la
   hoja, se quitaron las sombras y el fondo gris, se blanqueó el papel y se
   oscureció un poco la letra a mano, para que se vea como una hoja escaneada.
+- Carmen pidió cambiar las notas a mano de la lámina "Los Puntos" por letra de
+  computadora. Se borraron sus notas escritas a mano y se volvieron a escribir con
+  la tipografía Karla (la del sitio), en el mismo lugar: los nombres de los puntos,
+  los tres Dan Tian con lo que alimenta cada uno, y "Dirección en la que tenemos que
+  pensar".
