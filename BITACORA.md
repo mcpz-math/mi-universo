@@ -258,3 +258,5 @@
   la tipografía Karla (la del sitio), en el mismo lugar: los nombres de los puntos,
   los tres Dan Tian con lo que alimenta cada uno, y "Dirección en la que tenemos que
   pensar".
+- Se cambió el Dan Tian alto de "aspecto emocional" a "aspecto mental" (Carmen lo
+  confirmó; la lámina dice que alimenta al cerebro y al sistema nervioso).
