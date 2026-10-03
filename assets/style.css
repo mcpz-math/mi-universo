@@ -296,3 +296,62 @@ a{ color: var(--gold); }
   color: var(--cream-dim);
   font-size: .85rem;
 }
+
+/* Lámina propia: Los puntos y los tres Dan Tian */
+.puntos-figure svg{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+.puntos-figure .detalle{
+  fill: none;
+  stroke: var(--c-qigong);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 5;
+  opacity: .7;
+}
+
+.puntos-figure .guia path{
+  fill: none;
+  stroke: var(--cream-dim);
+  stroke-width: 1;
+  opacity: .55;
+}
+
+.puntos-figure .punto circle{
+  fill: var(--gold);
+  stroke: var(--bg);
+  stroke-width: 1.5;
+}
+
+.puntos-figure text{
+  font-family: 'Karla', sans-serif;
+  fill: var(--cream);
+}
+
+.puntos-figure .nombre text{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.puntos-figure .dantian text{
+  font-family: 'Outfit', sans-serif;
+  font-size: 19px;
+  font-weight: 600;
+  fill: var(--gold);
+}
+
+.puntos-figure .nota text{
+  font-size: 16px;
+  fill: var(--cream-dim);
+}
+
+.puntos-figure .vista text{
+  font-family: 'Outfit', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  fill: var(--c-qigong);
+  letter-spacing: .08em;
+}
