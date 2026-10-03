@@ -202,3 +202,6 @@
 - Se agregó el párrafo: "Es una ciencia milenaria y es una práctica que nos enseña
   a manejar el Qi. Todos sus movimientos tienen por objetivo ayudar a que el Qi se
   mueva de manera más eficiente en nuestro cuerpo."
+- Se agregó el párrafo: "El entrenamiento está diseñado para mejorar la salud
+  física, mental y emocional, pues todo lo que hacemos desequilibra el Qi. La única
+  práctica correcta para equilibrar el Qi es el Qigong."
