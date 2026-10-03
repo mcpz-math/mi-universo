@@ -220,3 +220,7 @@
   del nombre: "Neng 能 (Talento)", "Qi 气" (qué es el Qi, por qué practicamos, los
   dos aspectos del Qi) y "Gong 功" (trabajo y esfuerzo realizado con el corazón).
   Lo resaltado en verde va en negritas.
+- Carmen compartió una tercera foto. Se agregaron dos secciones más: "Qi Gong"
+  (trabajar con nuestro Qi; cómo las posturas, los movimientos, los sonidos y la
+  mente influyen en el Qi; buscar respuestas en el silencio) y "Zhi Neng Qi Gong"
+  ("Trabajar con nuestro Qi para despertar nuestra sabiduría").
