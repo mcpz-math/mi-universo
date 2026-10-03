@@ -247,3 +247,6 @@
 - Pendientes: confirmar con Carmen si el Dan Tian alto se relaciona con el aspecto
   "emocional" (como se leyó en sus apuntes) o con otro aspecto; y la frase "Cuando
   nos digan Dan Tian vamos a pensar en un lugar…", que se corta al final de la foto.
+- Carmen compartió la lámina "Los Puntos" (con sus notas a mano). Se recortó la
+  orilla de la foto, se guardó en `materiales/los-puntos.png` y se agregó debajo de
+  la lista de "Los puntos", con el crédito del ilustrador.
