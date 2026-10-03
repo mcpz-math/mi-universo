@@ -193,3 +193,15 @@
 - Quedaron pendientes dos frases que se cortaban en el borde de las fotos, y el
   inicio de un tema nuevo ("Testimonio 2/11") del que solo se veía el título sin
   notas — para completar cuando Carmen tenga esa información.
+
+## 2026-10-03 (primer contenido de "Qué es el Zhineng Qigong")
+- Se agregó en `que-es-zhineng-qigong.html` la frase: "El Zhineng Qigong es una
+  ciencia avalada por el Buró Nacional de Ciencias, el gobierno chino y el
+  Ministerio de Salud Pública."
+- Se quitó la etiqueta "Próximamente" de esa página, ya que ahora tiene contenido.
+- Se agregó el párrafo: "Es una ciencia milenaria y es una práctica que nos enseña
+  a manejar el Qi. Todos sus movimientos tienen por objetivo ayudar a que el Qi se
+  mueva de manera más eficiente en nuestro cuerpo."
+- Se agregó el párrafo: "El entrenamiento está diseñado para mejorar la salud
+  física, mental y emocional, pues todo lo que hacemos desequilibra el Qi. La única
+  práctica correcta para equilibrar el Qi es el Qigong."
