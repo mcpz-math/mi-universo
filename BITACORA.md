@@ -290,3 +290,5 @@
   página, con lo que significa: buenos niveles de azúcar, triglicéridos y presión
   arterial, no tomar medicamento, no tener el abdomen globoso, tener energía, buen
   peso y buena tonificación muscular.
+- Carmen pidió que los cambios se publiquen siempre, sin preguntar, a menos que
+  ella diga lo contrario. Se anotó en CLAUDE.md.
