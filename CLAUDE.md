@@ -15,6 +15,9 @@ Publicado gratis con GitHub Pages en: https://mcpz-math.github.io/mi-universo/
 - No tiene experiencia técnica previa con GitHub/git — explicar en lenguaje sencillo,
   sin dar por hecho conocimientos técnicos.
 - Quiere que los cambios se sincronicen sobre la marcha al repositorio de GitHub.
+- **Publicar siempre**: después de cada cambio, publicarlo directamente en el sitio
+  (crear el pull request hacia `main` y fusionarlo uno mismo), sin preguntar, a menos
+  que Carmen diga lo contrario.
 - Llevar un registro de avance en [BITACORA.md](BITACORA.md) — actualizarlo cada vez
   que se agregue o cambie algo importante.
 - El nombre de la práctica se escribe siempre **"ZhiNeng Qigong"** (así, con la N
@@ -45,5 +48,6 @@ misma familia. Estilos compartidos en `assets/style.css`.
 1. Elegir el interés a trabajar (uno de los planetas del mapa).
 2. Carmen comparte el contenido (texto en el chat, fotos, notas, lo que sea).
 3. Se llena la página de ese interés siguiendo el estilo "Universo".
-4. Se sincroniza automáticamente con GitHub (commit + push).
+4. Se sincroniza automáticamente con GitHub (commit + push) y se publica (pull
+   request hacia `main` fusionado).
 5. Se anota el avance en [BITACORA.md](BITACORA.md).
