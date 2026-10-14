@@ -313,3 +313,7 @@
 - Las notas se generan con `herramientas/crear_cerebro.py` y se actualizan cada vez
   que cambia el sitio. Ambas carpetas quedan fuera de la página publicada
   (`_config.yml`).
+- Para que Obsidian se actualice solo en la computadora de Carmen (Windows), se va a
+  usar el complemento Obsidian Git, que sólo descarga los cambios. Se agregó
+  `.gitignore` para que la configuración propia de Obsidian (`cerebro/.obsidian/`)
+  no se suba al repositorio.
