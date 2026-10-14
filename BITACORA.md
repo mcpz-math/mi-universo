@@ -298,3 +298,8 @@
   (`carbohidratos-nutriente.html`), Proteínas (`proteinas.html`) y Grasas
   saludables (`grasas-saludables.html`). Cada uno tiene su página con la etiqueta
   "Próximamente". El "Minicurso para contar carbohidratos" sigue igual.
+- Carmen pidió mover el "Minicurso para contar carbohidratos" a la página de
+  Carbohidratos. Ahora todo el minicurso está dentro de `carbohidratos-nutriente.html`
+  (con el subtítulo "Minicurso para contar carbohidratos") y esa página ya no dice
+  "Próximamente". En el mapa de Nutrición se quitó el nodo del minicurso (quedan 4
+  ramas). La página vieja `carbohidratos.html` ahora solo redirige a la nueva.
