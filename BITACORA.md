@@ -283,3 +283,6 @@
 - Carmen compartió cómo medir la glucosa y se agregó a `cuidados.html` (dentro de
   Diabetes): las tres mediciones (basal, a la hora de comer y a las dos horas) y
   qué esperar en cada una. Se quitó la etiqueta "Próximamente" de esa página.
+- Se agregó en `cuidados.html` una sección nueva: de dónde viene la energía que
+  necesita el cuerpo (oxígeno, vitaminas, minerales, proteínas, grasas y
+  carbohidratos).
