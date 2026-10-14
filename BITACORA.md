@@ -278,3 +278,8 @@
   antes de la lámina del curso, que por ahora se dejó también. Sus estilos están en
   `assets/style.css` (clase `.puntos-figure`).
 - Carmen decidió dejar las dos láminas en la página: la propia y la del curso.
+
+## 2026-10-14 (Cuidados: cómo medir la glucosa)
+- Carmen compartió cómo medir la glucosa y se agregó a `cuidados.html` (dentro de
+  Diabetes): las tres mediciones (basal, a la hora de comer y a las dos horas) y
+  qué esperar en cada una. Se quitó la etiqueta "Próximamente" de esa página.
