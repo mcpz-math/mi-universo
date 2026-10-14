@@ -317,3 +317,9 @@
   usar el complemento Obsidian Git, que sólo descarga los cambios. Se agregó
   `.gitignore` para que la configuración propia de Obsidian (`cerebro/.obsidian/`)
   no se suba al repositorio.
+- Carmen ya tiene la bóveda en su computadora (Windows): se descargó el proyecto con
+  `git clone` en `C:\Users\Carmen Pérez\mi-universo`, abrió la carpeta `cerebro` en
+  Obsidian e instaló el complemento Git, configurado para sólo traer cambios
+  (Auto pull interval = 10 min, Pull on startup encendido, Auto commit-and-sync = 0).
+- Acordamos que Carmen sigue mandando su contenido por el chat; Obsidian es para
+  leer y ver el mapa (no escribir ahí, porque las notas se vuelven a generar).
