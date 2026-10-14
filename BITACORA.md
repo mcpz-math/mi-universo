@@ -287,4 +287,6 @@
   necesita el cuerpo (oxígeno, vitaminas, minerales, proteínas, grasas y
   carbohidratos).
 - Se agregó en `cuidados.html` el subtítulo "Salud metabólica", al final de la
-  página, para el contenido que Carmen va a compartir.
+  página, con lo que significa: buenos niveles de azúcar, triglicéridos y presión
+  arterial, no tomar medicamento, no tener el abdomen globoso, tener energía, buen
+  peso y buena tonificación muscular.
