@@ -286,3 +286,7 @@
 - Se agregó en `cuidados.html` una sección nueva: de dónde viene la energía que
   necesita el cuerpo (oxígeno, vitaminas, minerales, proteínas, grasas y
   carbohidratos).
+- Se agregó en `cuidados.html` el subtítulo "Salud metabólica", al final de la
+  página, con lo que significa: buenos niveles de azúcar, triglicéridos y presión
+  arterial, no tomar medicamento, no tener el abdomen globoso, tener energía, buen
+  peso y buena tonificación muscular.
