@@ -44,10 +44,20 @@ misma familia. Estilos compartidos en `assets/style.css`.
 - Para agregar un nuevo interés: se agrega un planeta más en el mapa de `index.html`
   (línea + círculo + etiqueta) y su página propia, siguiendo el mismo patrón.
 
+## Cerebro digital en Obsidian
+- La carpeta `cerebro/` es una bóveda de Obsidian con una nota por cada página del
+  sitio (mismo contenido, y enlaces `[[...]]` sólo entre cada página y sus ramas, igual
+  que en el mapa). Las imágenes están en `cerebro/adjuntos/`.
+- Se genera desde las páginas HTML con `python3 herramientas/crear_cerebro.py` (usa
+  pandoc). **Después de cada cambio al sitio, volver a correrlo** para que Obsidian
+  quede igual que la página. El sitio es la fuente; no editar las notas a mano.
+- `_config.yml` excluye `cerebro/` y `herramientas/` de la página publicada.
+
 ## Flujo de trabajo para agregar contenido
 1. Elegir el interés a trabajar (uno de los planetas del mapa).
 2. Carmen comparte el contenido (texto en el chat, fotos, notas, lo que sea).
 3. Se llena la página de ese interés siguiendo el estilo "Universo".
-4. Se sincroniza automáticamente con GitHub (commit + push) y se publica (pull
+4. Se actualiza la bóveda de Obsidian (`python3 herramientas/crear_cerebro.py`).
+5. Se sincroniza automáticamente con GitHub (commit + push) y se publica (pull
    request hacia `main` fusionado).
-5. Se anota el avance en [BITACORA.md](BITACORA.md).
+6. Se anota el avance en [BITACORA.md](BITACORA.md).

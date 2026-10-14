@@ -303,3 +303,13 @@
   (con el subtítulo "Minicurso para contar carbohidratos") y esa página ya no dice
   "Próximamente". En el mapa de Nutrición se quitó el nodo del minicurso (quedan 4
   ramas). La página vieja `carbohidratos.html` ahora solo redirige a la nueva.
+
+## 2026-10-14 (cerebro digital en Obsidian)
+- Carmen quiere tener lo que escribe aquí también en Obsidian, como un cerebro
+  digital. Se creó la carpeta `cerebro/`: una bóveda de Obsidian con 24 notas, una por
+  cada página del sitio, con el mismo contenido. Cada nota enlaza a la página de la
+  que depende y a sus ramas, así que el grafo de Obsidian se ve como el mapa. Las
+  imágenes están en `cerebro/adjuntos/`.
+- Las notas se generan con `herramientas/crear_cerebro.py` y se actualizan cada vez
+  que cambia el sitio. Ambas carpetas quedan fuera de la página publicada
+  (`_config.yml`).
