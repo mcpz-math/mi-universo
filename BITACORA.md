@@ -286,3 +286,5 @@
 - Se agregó en `cuidados.html` una sección nueva: de dónde viene la energía que
   necesita el cuerpo (oxígeno, vitaminas, minerales, proteínas, grasas y
   carbohidratos).
+- Se agregó en `cuidados.html` el subtítulo "Salud metabólica", al final de la
+  página, para el contenido que Carmen va a compartir.
