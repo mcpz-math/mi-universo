@@ -292,3 +292,9 @@
   peso y buena tonificación muscular.
 - Carmen pidió que los cambios se publiquen siempre, sin preguntar, a menos que
   ella diga lo contrario. Se anotó en CLAUDE.md.
+
+## 2026-10-14 (tres nodos nuevos en Nutrición)
+- En el mapa de Nutrición se agregaron tres nodos nuevos: Carbohidratos
+  (`carbohidratos-nutriente.html`), Proteínas (`proteinas.html`) y Grasas
+  saludables (`grasas-saludables.html`). Cada uno tiene su página con la etiqueta
+  "Próximamente". El "Minicurso para contar carbohidratos" sigue igual.
